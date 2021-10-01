@@ -1,0 +1,184 @@
+@font-face {
+    font-family: 'TT Norms Regular';
+    src: url('TTNorms-Regular.eot');
+    src: url('TTNorms-Regular.eot?#iefix') format('embedded-opentype'),
+    url('TTNorms-Regular.woff') format('woff'),
+    url('TTNorms-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+/*
+* {
+    box-sizing: border-box;
+}
+*/
+
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #fff;
+    font-family: 'TT Norms Regular';
+    font-weight: 400;
+}
+
+
+ul {
+    padding: 0;
+    margin: 0;
+    list-style-type: none;
+}
+
+a {
+    text-decoration: none;
+}
+
+.container {
+    max-width: 1620px;
+    margin: 0 auto;
+    padding: 0 15px;
+}
+
+.flex-container {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+/* Header style */
+
+header {
+    height: 100px;
+    padding: 20px 0;
+    .heafer-menu {
+        ul {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: space-around;
+        }
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*
+header {
+    background-color: rgb(100, 100, 100);
+}
+body {
+    background-color: #ffffff;
+    font-family: 'TT Norms Regular';
+    height: 100vh;
+    background-image: url('../img/banner.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+}
+.wrap {
+    width: 84,3vw;
+    margin: 0 auto;
+    position: relative;
+}
+
+.blue {
+    background-color: #69aacf;
+    color: #ffff;
+}
+
+.dark {
+    background-color: #020204;
+    color: #ffff;
+}
+.light_header {
+    background-color: rgba(0, 0, 0, 0.5);
+}*/
+
+
+
+
+/*header{
+    padding-top: 20px;
+    margin-top: 10px;
+}
+body {
+    background-color: #00ffff;
+    font-family: 'TT Norms Regular';
+    height: 100vh;
+    background-image: url('../img/pic.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+body{
+    background-color: #ffffff;
+    font-size: 0.73vmax;
+    line-height: 1.35vmax;
+}
+.nav_links {
+    font-size: 14px;
+    list-style: none;
+    display: flex;
+    align-items: center;
+}
+.nav_links li{
+    padding: 0px 50px;
+    display: inline-block;  
+}
+.subnav{
+    list-style-type: none;
+    display: none;
+    position: absolute;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+}
+.subnav a {
+    font-size: 16px;
+    padding: 16px 2px;
+    margin-right: 0px;
+    text-decoration: none;
+    display: block;
+}
+.drop:hover .subnav{
+    display: block;
+}*/
